@@ -23,7 +23,7 @@
     "mime": "^2.4.4",
     "https-proxy-agent": "^4.0.0",
     "mime-types": "^2.1.26",
-    "minimist": "^0.0.8",
+    "minimist": "^1.2.5",
     "mkdirp": "^0.5.1",
     "minimatch": "^3.0.4",
     "once": "^1.4.0",
